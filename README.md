@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Andre</h1>
 <h3 align="center">A passionate guy who believes in technology to improve people's quality of life</h3>
 
-- 🔭 I’m currently working on **a project in Dextra Digital**
+- 🔭 I’m currently working on **a project in Invillia**
 
 - 💬 Ask me about **React, Node and other stuff in the technology world**
 
